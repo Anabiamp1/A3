@@ -9,7 +9,7 @@ Projeto de um programa para empresas com cadastro de vendas com linguagem Java e
 
 A aplicação permite controle de estoque, fornecedores, funcionarios cadastrados com diferentes níveis de acessp, banco de dados e tela de login utilizando a linguagem Java.
 
-![Image](https://github.com/user-attachments/assets/138edf67-abc8-457a-808d-6580ecd4de45)
+
 
 ## ✔️ Técnicas e tecnologias utilizadas
 

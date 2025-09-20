@@ -2,6 +2,8 @@
 📜 PROJETO PROGRAMA PARA VENDAS
 </h1>
 
+![Image](https://github.com/user-attachments/assets/a2abca08-406f-420c-a699-9b6a8a37d5bf)
+
 
 Projeto de um programa para empresas com cadastro de vendas com linguagem Java e utilização de MySQL.
 
